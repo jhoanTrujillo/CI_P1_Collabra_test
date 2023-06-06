@@ -1,10 +1,8 @@
 # StartPlan
-
-## **Developer: Jhoan Trujillo**
+**Developer: Jhoan Trujillo**
 
 ## Introduction
-
-## StratPlan is a static website designed to mimic the user experience of contracting companies. As a fictitious project management firm, StratPlan offers a range of talented professionals available for hire. Clients can browse through a portfolio of skilled project managers, consultants, and team members. With a client-centric approach, attention to detail, and a commitment to on-time, on-budget delivery, StratPlan ensures a seamless and successful project execution.
+StratPlan is a static website designed to mimic the user experience of contracting companies. As a fictitious project management firm, StratPlan offers a range of talented professionals available for hire. Clients can browse through a portfolio of skilled project managers, consultants, and team members. With a client-centric approach, attention to detail, and a commitment to on-time, on-budget delivery, StratPlan ensures a seamless and successful project execution.
 
 ## Table Of Content
 
@@ -15,7 +13,6 @@
    - Requirements
    - User Stories
 3. Design Principels
-   -
    - Font Family
    - Color Scheme
    - Imagery
@@ -32,15 +29,12 @@
 9. Credits
 
 ---
-
 ## Project Goals
-
 Through a user-friendly interface, the website emphasizes StratPlan's reliability as a trusted partner for project management needs. It conveys a sense of professionalism and expertise, assuring potential clients that their projects will be handled with utmost care and competence.
 
 The website Should showcase StratPlan as a reliable, serious, and approachable project management company.
 
 ### Site Owner Goals
-
 As site owner for StratPlan, there is a couple of requirements for the site:
 
 - Create an engaging and user-friendly platform.
@@ -50,7 +44,6 @@ As site owner for StratPlan, there is a couple of requirements for the site:
 - Emphasize the company's commitment to client satisfaction and successful project outcomes.
 
 ---
-
 ## User Experience
 
 ### Template will delete later.
