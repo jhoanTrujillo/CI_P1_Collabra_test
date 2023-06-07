@@ -1,0 +1,31 @@
+/* Google Fonts Import */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,600;1,400&family=Rubik:ital,wght@0,700;1,700&display=swap');
+
+/* CSS reset */
+body, 
+html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+ /* CSS Variables */
+:root {
+    /* Font Variables */
+    --header-font: "rubik", sans-serif;
+    --paragraph-font: "roboto mono", sans-serif;
+
+    /* Color Variables */
+    --background-color: #262626;
+    --foreground-color: #eeeeee;
+    --accent-color-1: #3BBF8F;
+    --accent-color-2: #705CF2;
+}
+
+/* General Styling */
+nav {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+}
