@@ -1,5 +1,4 @@
 # StratPlan
-
 Developer: Jhoan Trujillo
 
 ## Introduction
@@ -15,8 +14,8 @@ StratPlan is a static website designed to mimic the user experience of contracti
    - Requirements
    - User Stories
 3. Design Principels
-   - Font Family
-   - Color Scheme
+   - Fonts
+   - Color Scheme & Accessibility
    - Imagery
 4. Technology Used
    - languages
@@ -49,6 +48,38 @@ As site owner for StratPlan, there is a couple of requirements for the site:
 ## User Experience
 placeholder
 
+## Design Principels 
+These are the design principels that guide the design choices for StratPlan:
+
+1. **Simplicity and User-Friendliness:** The StratPlan website embraces a clean and intuitive design, ensuring ease of navigation and a user-friendly experience for visitors.
+2. **Clear Communication:** The website prioritizes clear and concise communication to convey information effectively. Content is presented in a straightforward manner, enabling visitors to easily understand the services offered and the value proposition of StratPlan.
+3. **Professionalism and Reliability:** The website upholds a professional image, reflecting StratPlan as a reliable project management company. The design, content, and tone maintain a high standard of quality and professionalism throughout.
+4. **Accessibility:** The website is designed to be accessible to all users. Considerations such as color contrast, font choices, and responsive layout ensure that the content is readable and usable across different devices and for individuals with varying abilities.
+3. **Trust and Transparency:** StratPlan maintains transparency by providing clear information about its processes, methodologies, and project management approach. This instills trust in potential clients, enabling them to make informed decisions and feel confident in choosing StratPlan as their project management partner.
+
+
+### Fonts
+Placeholder
+
+### Color Scheme & Accessibility
+For the StratPlan website, a color scheme was carefully chosen to strike a balance between seriousness and playfulness, reflecting trust, positive metrics, and flexibility. The color gamma consists of the following key colors:
+
+Background: #262626
+Foreground: #fafafa
+Accent 1: #D6D0FB
+Accent 2: #9DE1C8
+All colors in the StratPlan color scheme have been carefully checked for contrast to ensure accessibility for all users.
+
+The choice of a dark background (#262626) provides a sense of stability and sophistication, while the light foreground color (#fafafa) ensures readability and contrast.
+
+Accent color #D6D0FB is employed to convey trust and reliability, serving as a prominent color for important elements throughout the website. This color choice fosters a professional and serious atmosphere.
+
+Additionally, accent color #9DE1C8 adds a touch of playfulness and flexibility to the color scheme. It injects a vibrant and refreshing feel, harmonizing with the overall design while reflecting positive metrics and adaptability.
+
+By considering accessibility and using contrast-checked colors, the StratPlan website achieves both a visually appealing design and a user-friendly experience for all visitors.
+
+### Imagery
+
 ## Technology Used
 
 Here I provide a break down of languages and technologies used when working on this project.
@@ -63,3 +94,26 @@ The main languages used to building StratPlan are:
 ### Tools
 
 Between the tools used to build Stratplan are:
+
+- VS code - Code editor of choice.
+- Coolors.com - To come up with the color scheme and test contrast
+
+## Wireframe
+
+
+## Features
+
+## Testing 
+Some of the accessibility testing made for the project and the results: 
+
+
+
+## Deployment
+
+## Credits
+
+
+<!-- Attribution links
+<a href="https://storyset.com/work">Work illustrations by Storyset</a>
+
+-->
